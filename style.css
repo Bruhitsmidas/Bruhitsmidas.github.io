@@ -58,7 +58,7 @@ hr {
 
 /* Add your solution below */
 .image-circle {
-  border-property: 2px solid #003049;
+  border: 2px solid #003049;
   border-radius: 50%;  
 }
 
@@ -68,4 +68,10 @@ header {
 
 footer {
   text-align: center;
+}
+
+ol {
+  text-align: left;
+  list-style-position: outside;
+  padding-left: 20%;
 }
